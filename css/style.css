@@ -1,0 +1,29 @@
+
+h1 { font: bold 18pt; }
+
+.link {
+	color:#000;
+	background-color:#ccc;
+	margin: 0px;
+	padding: 4px 22px;
+}
+
+.menu {
+	background-color:#ccc;
+	padding: 4px 22px;
+	border: 1px #000 solid;
+}
+
+.link:hover {
+	color:white;
+	background-color:#000;
+}
+
+th, td {
+	background-color:#f2f2f2	;
+	padding: 4px 22px;
+}
+
+#id1 {
+	cursor: pointer;
+}
